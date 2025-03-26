@@ -41,4 +41,8 @@ models/
 *.xls
 
 # Logs
-*.log 
+*.log
+
+# Embedded repositories
+RegressionProject/
+temp/ 
